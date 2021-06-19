@@ -66,7 +66,7 @@
         </section>
         <section class="imagen-light">
             <img src="img/close.svg" alt="close">
-            <img src="img/scott-graham-5fNmWej4tAA-unsplash.jpg" alt="" class="agregar-imgen">
+            <img src="img/Designer _Isometric.svg" alt="" class="agregar-imgen">
         </section>
         <section class="contenedor" id="expertos">
             <h2 class="subtitulo">Expertos en:</h2>
@@ -91,7 +91,7 @@
         <div class="contenedor footer-content">
             <div class="contact-us">
                 <h2 class="brand">Henry design</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto sint quod doloremque explicabo maxime. Veniam cum eum soluta labore quia.</p>
+                <p>Lorem ipsum </p>
 
             </div>
             <div class="social-media">
@@ -106,6 +106,7 @@
                 </a>
             </div>
         </div>
+        <div class="line"></div>
     </footer>
     <script src="js/menu.js"></script>
     <script src="js/lightbox.js"></script>
