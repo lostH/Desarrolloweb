@@ -64,10 +64,10 @@
                 </div>
             </div>
         </section>
-        <!--         <section class="imagen-light">
-            <img src="img/closelight.svg" alt="">
-            <img src="" alt="" class="agregar-imgen">
-        </section> -->
+        <section class="imagen-light">
+            <img src="img/close.svg" alt="close">
+            <img src="img/scott-graham-5fNmWej4tAA-unsplash.jpg" alt="" class="agregar-imgen">
+        </section>
         <section class="contenedor" id="expertos">
             <h2 class="subtitulo">Expertos en:</h2>
             <section class="experts">
