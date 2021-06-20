@@ -38,6 +38,7 @@ body{
 }
 .hamburger{
     position: fixed;
+    
     top: 30px;
     left: 30px;
     background: #ffff;
