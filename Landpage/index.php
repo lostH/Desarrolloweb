@@ -65,8 +65,8 @@
             </div>
         </section>
         <section class="imagen-light">
-            <img src="img/close.svg" alt="close">
-            <img src="img/Designer _Isometric.svg" alt="" class="agregar-imgen">
+            <img src="img/close.svg" alt="close" class="close">
+            <img src="" alt="" class="agregar-imagen">
         </section>
         <section class="contenedor" id="expertos">
             <h2 class="subtitulo">Expertos en:</h2>
